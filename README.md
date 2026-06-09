@@ -1,12 +1,21 @@
 [![Test on PR to development](https://github.com/RobertoZanolli/progetto-sweng-24-25/actions/workflows/test-on-pr-to-develop.yml/badge.svg)](https://github.com/RobertoZanolli/progetto-sweng-24-25/actions/workflows/test-on-pr-to-develop.yml)
-# Progetto SwEng 2024-2025
-Progetto di laboratorio del corso di Ingegneria del Software, corso di laurea in Informatica per il Management, Università di Bologna, 2025.
 
-Per loggarsi possono essere usati i seguenti account:
-- mail: user1@test.com
-- password: user1
+# Software Engineering Project 2024-2025
 
-- mail: user2@test.com
-- password: user2
+Laboratory project developed for the Software Engineering course, part of the Bachelor's Degree in Informatics for Management at the University of Bologna, 2025.
 
-Nel db sono già presenti note con permessi diversi.
+## Test Accounts
+
+The application can be accessed using the following test accounts:
+
+### User 1
+- Email: `user1@test.com`
+- Password: `user1`
+
+### User 2
+- Email: `user2@test.com`
+- Password: `user2`
+
+## Notes
+
+The database already contains sample notes with different permission levels, useful for testing the application's access control and sharing features.
